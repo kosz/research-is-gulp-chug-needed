@@ -8,3 +8,5 @@ gulp.task('default', function() {
   gulp.start('task:one');
   gulp.start('task:two');
 });
+
+exports.gulp = gulp;

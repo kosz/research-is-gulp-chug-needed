@@ -9,3 +9,5 @@ gulp.task('default', function() {
   gulp.start('task:two');
   console.log('Finished default task, project two');
 });
+
+exports.gulp = gulp;
