@@ -1,0 +1,8 @@
+{
+  "name": "root-project",
+  "version": "0.0.0",
+  "description": "root project for testing controlling multiple gulp files with a single gulp file",
+  "devDependencies": {
+    "gulp": "^3.8.11"
+  }
+}

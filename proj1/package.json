@@ -1,0 +1,9 @@
+{
+  "name": "proj1",
+  "version": "0.0.0",
+  "description": "empty project for testing controlling multiple gulp files with a master gulp file",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "require-dir": "^0.1.0"
+  }
+}
